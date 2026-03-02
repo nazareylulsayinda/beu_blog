@@ -55,7 +55,7 @@ beublog/
     └── index.html            # Ana HTML şablonu
 \`\`\`
 
-## 🛠️ Kurulum ve Çalıştırma
+##  Kurulum ve Çalıştırma
 
 Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyin.
 
