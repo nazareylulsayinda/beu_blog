@@ -3,7 +3,7 @@
 
 BEUBlog, modern web teknolojileri kullanılarak geliştirilmiş tam yığin (full-stack) bir blog platformudur. Kullanıcıların kayıt olup giriş yapabileceği, kendi blog yazılarını oluşturabileceği ve düzenleyebileceği, aynı zamanda diğer kullanıcıların yazılarını okuyabileceği zengin içerikli bir sistem sunar.
 
-## 🚀 Özellikler
+##  Özellikler
 
 - **Kullanıcı Kimlik Doğrulaması:** JWT (JSON Web Tokens) tabanlı güvenli kayıt olma ve giriş yapma sistemi.
 - **Kullanıcı Yetkilendirmesi:** Admin ve standart kullanıcı rolleri.
@@ -15,7 +15,7 @@ BEUBlog, modern web teknolojileri kullanılarak geliştirilmiş tam yığin (ful
 - **Duyarlı (Responsive) Tasarım:** Mobil, tablet ve masaüstü cihazlarla tam uyumlu kullanıcı deneyimi.
 - **Kullanıcı Paneli (Dashboard):** Kullanıcıların kendi detaylarını ve paylaştıkları yazıları yönetebildiği özel kontrol paneli.
 
-## 💻 Kullanılan Teknolojiler
+##  Kullanılan Teknolojiler
 
 ### Frontend (İstemci Tarafı)
 - **[React.js](https://reactjs.org/):** Kullanıcı arayüzünü oluşturmak için kullanılan JavaScript kütüphanesi.
@@ -32,7 +32,7 @@ BEUBlog, modern web teknolojileri kullanılarak geliştirilmiş tam yığin (ful
 - **[Bcrypt.js](https://www.npmjs.com/package/bcryptjs):** Kullanıcı parolalarını güvenli bir şekilde şifrelemek için.
 - **[Multer](https://github.com/expressjs/multer):** Dosya ve görsel yükleme işlemleri için.
 
-## 📂 Proje Yapısı
+##  Proje Yapısı
 
 \`\`\`bash
 beublog/
